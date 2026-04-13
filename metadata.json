@@ -1,0 +1,5 @@
+{
+  "name": "PrepIQ",
+  "description": "An expert AI interview coach built specifically for the Indian job market.",
+  "requestFramePermissions": ["microphone"]
+}
